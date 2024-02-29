@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="7" failed="1" skipped="3">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T10:40:58 IST" name="Suite" finished-at="2024-02-29T10:42:37 IST" duration-ms="98535">
+    <groups>
+      <group name="regression">
+        <method signature="TC_001_productsSearch.search_for_bookshelves()[pri:1, instance:testCases.TC_001_productsSearch@7161d8d1]" name="search_for_bookshelves" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_001_productsSearch.close_popup()[pri:2, instance:testCases.TC_001_productsSearch@7161d8d1]" name="close_popup" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_001_productsSearch.apply_filters()[pri:3, instance:testCases.TC_001_productsSearch@7161d8d1]" name="apply_filters" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_001_productsSearch.get_top_3_products()[pri:4, instance:testCases.TC_001_productsSearch@7161d8d1]" name="get_top_3_products" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_002_Collections.go_to_Living_collections()[pri:1, instance:testCases.TC_002_Collections@3a7442c7]" name="go_to_Living_collections" class="testCases.TC_002_Collections"/>
+        <method signature="TC_002_Collections.get_all_sub_menus()[pri:2, instance:testCases.TC_002_Collections@3a7442c7]" name="get_all_sub_menus" class="testCases.TC_002_Collections"/>
+        <method signature="TC_003_giftCardTest.customise_your_gift_card(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testCases.TC_003_giftCardTest@4b013c76]" name="customise_your_gift_card" class="testCases.TC_003_giftCardTest"/>
+        <method signature="TC_003_giftCardTest.checking_with_invalidEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.TC_003_giftCardTest@4b013c76]" name="checking_with_invalidEmail" class="testCases.TC_003_giftCardTest"/>
+        <method signature="TC_003_giftCardTest.checking_with_validEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:testCases.TC_003_giftCardTest@4b013c76]" name="checking_with_validEmail" class="testCases.TC_003_giftCardTest"/>
+        <method signature="TC_003_giftCardTest.validDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:testCases.TC_003_giftCardTest@4b013c76]" name="validDetails" class="testCases.TC_003_giftCardTest"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_001_productsSearch.search_for_bookshelves()[pri:1, instance:testCases.TC_001_productsSearch@7161d8d1]" name="search_for_bookshelves" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_001_productsSearch.close_popup()[pri:2, instance:testCases.TC_001_productsSearch@7161d8d1]" name="close_popup" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_002_Collections.go_to_Living_collections()[pri:1, instance:testCases.TC_002_Collections@3a7442c7]" name="go_to_Living_collections" class="testCases.TC_002_Collections"/>
+        <method signature="TC_003_giftCardTest.click_on_gift_cards()[pri:1, instance:testCases.TC_003_giftCardTest@4b013c76]" name="click_on_gift_cards" class="testCases.TC_003_giftCardTest"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_001_productsSearch.search_for_bookshelves()[pri:1, instance:testCases.TC_001_productsSearch@7161d8d1]" name="search_for_bookshelves" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_001_productsSearch.close_popup()[pri:2, instance:testCases.TC_001_productsSearch@7161d8d1]" name="close_popup" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_001_productsSearch.apply_filters()[pri:3, instance:testCases.TC_001_productsSearch@7161d8d1]" name="apply_filters" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_001_productsSearch.get_top_3_products()[pri:4, instance:testCases.TC_001_productsSearch@7161d8d1]" name="get_top_3_products" class="testCases.TC_001_productsSearch"/>
+        <method signature="TC_002_Collections.go_to_Living_collections()[pri:1, instance:testCases.TC_002_Collections@3a7442c7]" name="go_to_Living_collections" class="testCases.TC_002_Collections"/>
+        <method signature="TC_002_Collections.get_all_sub_menus()[pri:2, instance:testCases.TC_002_Collections@3a7442c7]" name="get_all_sub_menus" class="testCases.TC_002_Collections"/>
+        <method signature="TC_003_giftCardTest.click_on_gift_cards()[pri:1, instance:testCases.TC_003_giftCardTest@4b013c76]" name="click_on_gift_cards" class="testCases.TC_003_giftCardTest"/>
+        <method signature="TC_003_giftCardTest.customise_your_gift_card(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testCases.TC_003_giftCardTest@4b013c76]" name="customise_your_gift_card" class="testCases.TC_003_giftCardTest"/>
+        <method signature="TC_003_giftCardTest.checking_with_invalidEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.TC_003_giftCardTest@4b013c76]" name="checking_with_invalidEmail" class="testCases.TC_003_giftCardTest"/>
+        <method signature="TC_003_giftCardTest.checking_with_validEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:testCases.TC_003_giftCardTest@4b013c76]" name="checking_with_validEmail" class="testCases.TC_003_giftCardTest"/>
+        <method signature="TC_003_giftCardTest.validDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:testCases.TC_003_giftCardTest@4b013c76]" name="validDetails" class="testCases.TC_003_giftCardTest"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-02-29T10:40:58 IST" name="Test" finished-at="2024-02-29T10:42:37 IST" duration-ms="98535">
+      <class name="testCases.TC_003_giftCardTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_giftCardTest@4b013c76]" started-at="2024-02-29T10:41:52 IST" name="setup" finished-at="2024-02-29T10:42:04 IST" duration-ms="12166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="click_on_gift_cards()[pri:1, instance:testCases.TC_003_giftCardTest@4b013c76]" started-at="2024-02-29T10:42:04 IST" name="click_on_gift_cards" finished-at="2024-02-29T10:42:16 IST" duration-ms="11680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_gift_cards -->
+        <test-method signature="customise_your_gift_card(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testCases.TC_003_giftCardTest@4b013c76]" started-at="2024-02-29T10:42:18 IST" name="customise_your_gift_card" data-provider="dp" finished-at="2024-02-29T10:42:20 IST" depends-on-methods="testCases.TC_003_giftCardTest.click_on_gift_cards" duration-ms="2367" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tom#123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9876543212]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dora]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dora@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9876543217]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[#3-132]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[600001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[giftcard]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[tom@123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customise_your_gift_card -->
+        <test-method signature="checking_with_invalidEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.TC_003_giftCardTest@4b013c76]" started-at="2024-02-29T10:42:22 IST" name="checking_with_invalidEmail" data-provider="dp" finished-at="2024-02-29T10:42:27 IST" depends-on-methods="testCases.TC_003_giftCardTest.customise_your_gift_card" duration-ms="5763" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tom#123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9876543212]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dora]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dora@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9876543217]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[#3-132]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[600001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[giftcard]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[tom@123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checking_with_invalidEmail -->
+        <test-method signature="checking_with_validEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:testCases.TC_003_giftCardTest@4b013c76]" started-at="2024-02-29T10:42:33 IST" name="checking_with_validEmail" data-provider="dp" finished-at="2024-02-29T10:42:33 IST" depends-on-methods="testCases.TC_003_giftCardTest.checking_with_invalidEmail" duration-ms="797" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tom#123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9876543212]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dora]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dora@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9876543217]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[#3-132]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[600001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[giftcard]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[tom@123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checking_with_validEmail -->
+        <test-method signature="validDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:testCases.TC_003_giftCardTest@4b013c76]" started-at="2024-02-29T10:42:35 IST" name="validDetails" data-provider="dp" finished-at="2024-02-29T10:42:35 IST" depends-on-methods="testCases.TC_003_giftCardTest.checking_with_validEmail" duration-ms="669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tom#123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9876543212]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dora]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[dora@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9876543217]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[#3-132]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[600001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[giftcard]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[tom@123]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_giftCardTest@4b013c76]" started-at="2024-02-29T10:42:36 IST" name="tearDown" finished-at="2024-02-29T10:42:37 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_003_giftCardTest -->
+      <class name="testCases.TC_002_Collections">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_Collections@3a7442c7]" started-at="2024-02-29T10:41:30 IST" name="setup" finished-at="2024-02-29T10:41:42 IST" duration-ms="11996" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="go_to_Living_collections()[pri:1, instance:testCases.TC_002_Collections@3a7442c7]" started-at="2024-02-29T10:41:42 IST" name="go_to_Living_collections" finished-at="2024-02-29T10:41:47 IST" duration-ms="5699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- go_to_Living_collections -->
+        <test-method signature="get_all_sub_menus()[pri:2, instance:testCases.TC_002_Collections@3a7442c7]" started-at="2024-02-29T10:41:48 IST" name="get_all_sub_menus" finished-at="2024-02-29T10:41:51 IST" depends-on-methods="testCases.TC_002_Collections.go_to_Living_collections" duration-ms="2694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_all_sub_menus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_Collections@3a7442c7]" started-at="2024-02-29T10:41:52 IST" name="tearDown" finished-at="2024-02-29T10:41:52 IST" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_Collections -->
+      <class name="testCases.TC_001_productsSearch">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_productsSearch@7161d8d1]" started-at="2024-02-29T10:40:59 IST" name="setup" finished-at="2024-02-29T10:41:12 IST" duration-ms="13273" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="search_for_bookshelves()[pri:1, instance:testCases.TC_001_productsSearch@7161d8d1]" started-at="2024-02-29T10:41:12 IST" name="search_for_bookshelves" finished-at="2024-02-29T10:41:23 IST" duration-ms="10196" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='search']"}
+  (Session info: chrome=113.0.5672.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6a38fc95886f2029d148ad72a70c265c, findElement {value=//input[@id='search'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:64674}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64674/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a38fc95886f2029d148ad72a70c265c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='search']"}
+  (Session info: chrome=113.0.5672.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6a38fc95886f2029d148ad72a70c265c, findElement {value=//input[@id='search'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.93, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: C:\Program Files (x86)\scop...}, goog:chromeOptions: {debuggerAddress: localhost:64674}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64674/devtoo..., se:cdpVersion: 113.0.5672.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a38fc95886f2029d148ad72a70c265c
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy30.sendKeys(Unknown Source)
+at pageObjects.HomePage.search_for_Book_Shelves(HomePage.java:59)
+at testCases.TC_001_productsSearch.search_for_bookshelves(TC_001_productsSearch.java:24)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_for_bookshelves -->
+        <test-method signature="close_popup()[pri:2, instance:testCases.TC_001_productsSearch@7161d8d1]" started-at="2024-02-29T10:41:23 IST" name="close_popup" finished-at="2024-02-29T10:41:23 IST" depends-on-methods="testCases.TC_001_productsSearch.search_for_bookshelves" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method TC_001_productsSearch.close_popup()[pri:2, instance:testCases.TC_001_productsSearch@7161d8d1] depends on not successfully finished methods]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method TC_001_productsSearch.close_popup()[pri:2, instance:testCases.TC_001_productsSearch@7161d8d1] depends on not successfully finished methods
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:102)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_popup -->
+        <test-method signature="apply_filters()[pri:3, instance:testCases.TC_001_productsSearch@7161d8d1]" started-at="2024-02-29T10:41:23 IST" name="apply_filters" finished-at="2024-02-29T10:41:23 IST" depends-on-methods="testCases.TC_001_productsSearch.close_popup, testCases.TC_001_productsSearch.search_for_bookshelves" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method TC_001_productsSearch.apply_filters()[pri:3, instance:testCases.TC_001_productsSearch@7161d8d1] depends on not successfully finished methods]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method TC_001_productsSearch.apply_filters()[pri:3, instance:testCases.TC_001_productsSearch@7161d8d1] depends on not successfully finished methods
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:102)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apply_filters -->
+        <test-method signature="get_top_3_products()[pri:4, instance:testCases.TC_001_productsSearch@7161d8d1]" started-at="2024-02-29T10:41:28 IST" name="get_top_3_products" finished-at="2024-02-29T10:41:28 IST" depends-on-methods="testCases.TC_001_productsSearch.apply_filters" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method TC_001_productsSearch.get_top_3_products()[pri:4, instance:testCases.TC_001_productsSearch@7161d8d1] depends on not successfully finished methods]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method TC_001_productsSearch.get_top_3_products()[pri:4, instance:testCases.TC_001_productsSearch@7161d8d1] depends on not successfully finished methods
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:102)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_top_3_products -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_productsSearch@7161d8d1]" started-at="2024-02-29T10:41:29 IST" name="tearDown" finished-at="2024-02-29T10:41:30 IST" duration-ms="553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_productsSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

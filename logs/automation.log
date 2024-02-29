@@ -1,0 +1,20 @@
+10:17:12.506 [main] INFO  testBase.BaseClass - Adding SubMenu to Excel Completed..
+10:17:12.529 [main] INFO  testBase.BaseClass - ***TC_002_Collections has completed***
+10:41:12.959 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started***
+10:41:42.250 [main] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+10:41:44.455 [main] INFO  testBase.BaseClass - Navivating to living Collections..
+10:41:49.629 [main] INFO  testBase.BaseClass - Adding SubMenu List to Excel Started..
+10:41:51.545 [main] INFO  testBase.BaseClass - Adding SubMenu to Excel Completed..
+10:41:51.545 [main] INFO  testBase.BaseClass - ***TC_002_Collections has completed***
+10:42:04.982 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has Started***
+10:42:15.975 [main] INFO  testBase.BaseClass - Gift Card page opened..
+10:42:16.659 [main] INFO  testBase.BaseClass - Clicked On birthday..
+10:42:20.313 [main] INFO  testBase.BaseClass - Amount selected..
+10:42:20.776 [main] INFO  testBase.BaseClass - customising gift card completed..
+10:42:23.483 [main] INFO  testBase.BaseClass - Invalid email entered..
+10:42:25.388 [main] INFO  testBase.BaseClass - Writing into excel started..
+10:42:27.779 [main] INFO  testBase.BaseClass - writing into excel completed..
+10:42:33.684 [main] INFO  testBase.BaseClass - Invalid email cleared and  valid email id is entered...
+10:42:35.091 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section Started........
+10:42:35.758 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section completed........
+10:42:35.758 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has completed***

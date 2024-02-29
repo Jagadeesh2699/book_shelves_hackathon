@@ -1,0 +1,63 @@
+16:31:05.973 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303872\eclipse-workspace\Hackathon\Master.xml
+
+16:31:13.099 [main] INFO  com.aventstack.extentreports.model.Test - Chrome Browser Launched...
+16:31:15.546 [main] INFO  com.aventstack.extentreports.model.Test - Website Loading...
+16:31:16.246 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_001_productsSearch has Started***
+16:31:19.776 [main] INFO  com.aventstack.extentreports.model.Test - searched for Book Shelves..
+16:31:23.444 [main] INFO  com.aventstack.extentreports.model.Test - Popup Closed..
+16:31:24.545 [main] INFO  com.aventstack.extentreports.model.Test - Selected Category as Kids Book Shelves..
+16:31:28.482 [main] INFO  com.aventstack.extentreports.model.Test - Selected Price Range..
+16:31:32.385 [main] INFO  com.aventstack.extentreports.model.Test - Selected Sort By..
+16:31:32.530 [main] INFO  com.aventstack.extentreports.model.Test - selected Exclude Out of Stock..
+16:31:44.715 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+16:31:44.902 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+16:31:45.032 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet..
+16:31:45.033 [main] INFO  com.aventstack.extentreports.model.Test - Adding products to Excel Sheet completed..
+16:31:47.104 [main] INFO  com.aventstack.extentreports.model.Test - navigated to home page..
+16:31:47.105 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_001_productsSearch has completed***
+16:31:47.587 [main] INFO  com.aventstack.extentreports.model.Test - ***TC_002_Collections has Started***
+16:31:47.753 [main] INFO  com.aventstack.extentreports.model.Test - Navivating to living Collections..
+16:32:01.428 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303872\eclipse-workspace\Hackathon\Master.xml
+
+16:40:07.341 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303872\eclipse-workspace\Hackathon\Master.xml
+
+16:48:44.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303872\eclipse-workspace\Hackathon\Master.xml
+
+16:49:47.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303872\eclipse-workspace\Hackathon\Master.xml
+
+17:48:49.646 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has Started in cucumber***
+17:51:32.617 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has Started in cucumber***
+17:51:34.309 [main] INFO  stepDefinitions.Hooks - searched for Book Shelves..
+20:28:53.399 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has Started in cucumber***
+20:28:56.165 [main] INFO  stepDefinitions.Hooks - searched for Book Shelves..
+20:33:14.606 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has Started in cucumber***
+20:33:17.473 [main] INFO  stepDefinitions.Hooks - searched for Book Shelves..
+20:33:21.071 [main] INFO  stepDefinitions.Hooks - Popup Closed..
+20:38:38.684 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has Started in cucumber***
+20:38:42.877 [main] INFO  stepDefinitions.Hooks - searched for Book Shelves..
+20:38:46.178 [main] INFO  stepDefinitions.Hooks - Popup Closed..
+20:41:09.065 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has Started in cucumber***
+20:41:12.992 [main] INFO  stepDefinitions.Hooks - searched for Book Shelves..
+20:41:16.395 [main] INFO  stepDefinitions.Hooks - Popup Closed..
+20:41:17.379 [main] INFO  stepDefinitions.Hooks - Selected Category as Kids Book Shelves..
+20:41:22.017 [main] INFO  stepDefinitions.Hooks - Selected Price Range..
+20:41:22.225 [main] INFO  stepDefinitions.Hooks - selected Exclude Out of Stock..
+20:41:26.734 [main] INFO  stepDefinitions.Hooks - Selected Sort By..
+20:41:40.888 [main] INFO  stepDefinitions.Hooks - Adding products to Excel Sheet..
+20:41:41.684 [main] INFO  stepDefinitions.Hooks - Adding products to Excel Sheet..
+20:41:41.964 [main] INFO  stepDefinitions.Hooks - Adding products to Excel Sheet..
+20:41:41.965 [main] INFO  stepDefinitions.Hooks - Adding products to Excel Sheet completed..
+20:41:44.524 [main] INFO  stepDefinitions.Hooks - navigated to home page..
+20:41:44.524 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has completed***
+20:56:01.075 [main] INFO  stepDefinitions.Hooks - ***TC_002_Collections has Started***
+20:58:07.238 [main] INFO  stepDefinitions.Hooks - ***TC_002_Collections has Started***
+20:59:29.441 [main] INFO  stepDefinitions.Hooks - ***TC_002_Collections has Started***
+21:00:35.276 [main] INFO  stepDefinitions.Hooks - ***TC_002_Collections has Started***
+21:01:59.983 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has Started in cucumber***
+21:02:03.541 [main] INFO  stepDefinitions.Hooks - searched for Book Shelves..
+21:02:06.492 [main] INFO  stepDefinitions.Hooks - Popup Closed..

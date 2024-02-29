@@ -1,0 +1,55 @@
+21:55:38.617 [main] INFO  testCases.TC_001_productsSearch - ***TC_002_Collections has Started***
+21:55:38.965 [main] INFO  testCases.TC_001_productsSearch - Navivating to living Collections..
+21:55:42.467 [main] INFO  testCases.TC_001_productsSearch - Adding SubMenu List to Excel Started..
+21:55:45.425 [main] INFO  testCases.TC_001_productsSearch - Adding SubMenu to Excel Completed..
+21:55:45.426 [main] INFO  testCases.TC_001_productsSearch - ***TC_002_Collections has completed***
+21:55:46.304 [main] INFO  testCases.TC_001_productsSearch - ***TC_003_giftCardTest has Started***
+21:55:53.919 [main] INFO  testCases.TC_001_productsSearch - Gift Card page opened..
+21:55:54.541 [main] INFO  testCases.TC_001_productsSearch - Clicked On birthday..
+21:55:57.816 [main] INFO  testCases.TC_001_productsSearch - Amount selected..
+21:55:58.147 [main] INFO  testCases.TC_001_productsSearch - customising gift card completed..
+21:56:02.251 [main] INFO  testCases.TC_001_productsSearch - Invalid email entered..
+21:56:06.074 [main] INFO  testCases.TC_001_productsSearch - Writing into excel started..
+21:56:06.524 [main] INFO  testCases.TC_001_productsSearch - writing into excel completed..
+21:56:09.101 [main] INFO  testCases.TC_001_productsSearch - Invalid email cleared and  valid email id is entered...
+21:56:10.681 [main] INFO  testCases.TC_001_productsSearch - validate all the given details in the Confirm Details section Started........
+21:56:11.279 [main] INFO  testCases.TC_001_productsSearch - validate all the given details in the Confirm Details section completed........
+21:56:11.279 [main] INFO  testCases.TC_001_productsSearch - ***TC_003_giftCardTest has completed***
+22:04:05.866 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303872\eclipse-workspace\Hackathon\CrossBrowserTesting.xml
+
+22:04:22.479 [TestNG-tests-1] INFO  testCases.TC_001_productsSearch - ***TC_003_giftCardTest has Started***
+22:04:36.856 [TestNG-tests-2] INFO  testCases.TC_001_productsSearch - ***TC_003_giftCardTest has Started***
+22:04:43.456 [TestNG-tests-1] INFO  testCases.TC_001_productsSearch - ***TC_002_Collections has Started***
+22:04:44.836 [TestNG-tests-2] INFO  testCases.TC_001_productsSearch - Gift Card page opened..
+22:04:55.565 [TestNG-tests-1] INFO  testCases.TC_001_productsSearch - ***TC_001_productsSearch has Started***
+22:05:16.114 [TestNG-tests-2] INFO  testCases.TC_001_productsSearch - ***TC_002_Collections has Started***
+22:05:16.197 [TestNG-tests-2] INFO  testCases.TC_001_productsSearch - ***TC_001_productsSearch has Started***
+22:26:06.935 [main] INFO  stepDefinitions.TC_003_giftCardCreation - ***TC_003_giftCardTest has Started***
+22:30:36.241 [main] INFO  stepDefinitions.TC_003_giftCardCreation - ***TC_003_giftCardTest has Started***
+22:31:58.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303872\eclipse-workspace\Hackathon\Master.xml
+
+22:32:14.397 [main] INFO  testCases.TC_001_productsSearch - ***TC_001_productsSearch has Started***
+22:32:19.566 [main] INFO  testCases.TC_001_productsSearch - searched for Book Shelves..
+22:32:23.218 [main] INFO  testCases.TC_001_productsSearch - Popup Closed..
+22:32:24.988 [main] INFO  testCases.TC_001_productsSearch - Selected Category as Kids Book Shelves..
+22:32:29.676 [main] INFO  testCases.TC_001_productsSearch - Selected Price Range..
+22:32:34.069 [main] INFO  testCases.TC_001_productsSearch - Selected Sort By..
+22:32:34.257 [main] INFO  testCases.TC_001_productsSearch - selected Exclude Out of Stock..
+22:32:47.239 [main] INFO  testCases.TC_001_productsSearch - Adding products to Excel Sheet..
+22:32:47.457 [main] INFO  testCases.TC_001_productsSearch - Adding products to Excel Sheet..
+22:32:47.631 [main] INFO  testCases.TC_001_productsSearch - Adding products to Excel Sheet..
+22:32:47.631 [main] INFO  testCases.TC_001_productsSearch - Adding products to Excel Sheet completed..
+22:32:49.965 [main] INFO  testCases.TC_001_productsSearch - navigated to home page..
+22:32:49.965 [main] INFO  testCases.TC_001_productsSearch - ***TC_001_productsSearch has completed***
+22:32:50.644 [main] INFO  testCases.TC_001_productsSearch - ***TC_002_Collections has Started***
+22:32:50.949 [main] INFO  testCases.TC_001_productsSearch - Navivating to living Collections..
+22:32:56.025 [main] INFO  testCases.TC_001_productsSearch - Adding SubMenu List to Excel Started..
+22:32:58.372 [main] INFO  testCases.TC_001_productsSearch - Adding SubMenu to Excel Completed..
+22:32:58.372 [main] INFO  testCases.TC_001_productsSearch - ***TC_002_Collections has completed***
+22:32:59.387 [main] INFO  testCases.TC_001_productsSearch - ***TC_003_giftCardTest has Started***
+22:33:05.974 [main] INFO  testCases.TC_001_productsSearch - Gift Card page opened..
+22:33:06.771 [main] INFO  testCases.TC_001_productsSearch - Clicked On birthday..
+22:33:09.869 [main] INFO  testCases.TC_001_productsSearch - Amount selected..
+22:33:10.223 [main] INFO  testCases.TC_001_productsSearch - customising gift card completed..

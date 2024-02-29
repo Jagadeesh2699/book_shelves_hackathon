@@ -1,0 +1,55 @@
+14:22:23.862 [main] INFO  testBase.BaseClass - Adding SubMenu List to Excel Started..
+14:22:26.724 [main] INFO  testBase.BaseClass - Adding SubMenu to Excel Completed..
+14:22:26.725 [main] INFO  testBase.BaseClass - ***TC_002_Collections has completed***
+14:22:46.488 [main] INFO  stepDefinitions.TC_003_giftCardCreation - ***TC_003_giftCardTest has Started***
+14:23:33.430 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Gift Card page opened..
+14:23:34.077 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Clicked On birthday..
+14:23:35.749 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Amount selected..
+14:23:36.177 [main] INFO  stepDefinitions.TC_003_giftCardCreation - customising gift card completed..
+14:23:39.799 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Invalid email entered..
+14:23:43.753 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Writing into excel started..
+14:23:44.253 [main] INFO  stepDefinitions.TC_003_giftCardCreation - writing into excel completed..
+14:23:45.269 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Invalid email cleared and  valid email id is entered...
+14:23:45.807 [main] INFO  stepDefinitions.TC_003_giftCardCreation - validate all the given details in the Confirm Details section Started........
+14:23:49.126 [main] INFO  stepDefinitions.TC_003_giftCardCreation - validate all the given details in the Confirm Details section completed........
+14:23:49.127 [main] INFO  stepDefinitions.TC_003_giftCardCreation - ***TC_003_giftCardTest has completed***
+14:30:07.837 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.setup()]. Static configuration methods can cause unexpected behavior.
+14:30:07.862 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.setup()]. Static configuration methods can cause unexpected behavior.
+14:30:07.886 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.setup()]. Static configuration methods can cause unexpected behavior.
+14:30:07.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303872\eclipse-workspace\Hackathon\Master.xml
+
+14:30:19.104 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started***
+14:30:21.441 [main] INFO  testBase.BaseClass - searched for Book Shelves..
+14:30:24.812 [main] INFO  testBase.BaseClass - Popup Closed..
+14:30:25.787 [main] INFO  testBase.BaseClass - Selected Category as Kids Book Shelves..
+14:30:29.508 [main] INFO  testBase.BaseClass - Selected Price Range..
+14:30:33.124 [main] INFO  testBase.BaseClass - Selected Sort By..
+14:30:33.200 [main] INFO  testBase.BaseClass - selected Exclude Out of Stock..
+14:30:45.406 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+14:30:45.590 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+14:30:45.743 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+14:30:45.743 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet completed..
+14:30:47.932 [main] INFO  testBase.BaseClass - navigated to home page..
+14:30:47.932 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has completed***
+14:31:01.883 [main] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+14:31:02.895 [main] INFO  testBase.BaseClass - Navivating to living Collections..
+14:31:05.298 [main] INFO  testBase.BaseClass - Adding SubMenu List to Excel Started..
+14:31:06.354 [main] INFO  testBase.BaseClass - Adding SubMenu to Excel Completed..
+14:31:06.354 [main] INFO  testBase.BaseClass - ***TC_002_Collections has completed***
+14:31:19.152 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has Started***
+14:32:04.288 [main] INFO  testBase.BaseClass - Gift Card page opened..
+14:32:05.079 [main] INFO  testBase.BaseClass - Clicked On birthday..
+14:32:08.586 [main] INFO  testBase.BaseClass - Amount selected..
+14:32:08.824 [main] INFO  testBase.BaseClass - customising gift card completed..
+14:32:12.468 [main] INFO  testBase.BaseClass - Invalid email entered..
+14:32:14.479 [main] INFO  testBase.BaseClass - Writing into excel started..
+14:32:14.931 [main] INFO  testBase.BaseClass - writing into excel completed..
+14:32:17.058 [main] INFO  testBase.BaseClass - Invalid email cleared and  valid email id is entered...
+14:32:18.421 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section Started........
+14:32:19.233 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section completed........
+14:32:19.233 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has completed***
+10:16:22.842 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started***
+10:16:46.821 [main] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+10:17:03.461 [main] INFO  testBase.BaseClass - Navivating to living Collections..
+10:17:10.491 [main] INFO  testBase.BaseClass - Adding SubMenu List to Excel Started..

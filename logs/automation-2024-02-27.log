@@ -1,0 +1,55 @@
+11:38:09.341 [main] INFO  testCases.TC_001_productsSearch - Clicked On birthday..
+11:38:11.690 [main] INFO  testCases.TC_001_productsSearch - Amount selected..
+11:38:11.862 [main] INFO  testCases.TC_001_productsSearch - customising gift card completed..
+11:38:13.884 [main] INFO  testCases.TC_001_productsSearch - Invalid email entered..
+11:38:15.443 [main] INFO  testCases.TC_001_productsSearch - Writing into excel started..
+11:38:16.073 [main] INFO  testCases.TC_001_productsSearch - writing into excel completed..
+11:38:18.851 [main] INFO  testCases.TC_001_productsSearch - Invalid email cleared and  valid email id is entered...
+11:38:20.180 [main] INFO  testCases.TC_001_productsSearch - validate all the given details in the Confirm Details section Started........
+11:38:20.922 [main] INFO  testCases.TC_001_productsSearch - validate all the given details in the Confirm Details section completed........
+11:38:20.922 [main] INFO  testCases.TC_001_productsSearch - ***TC_003_giftCardTest has completed***
+11:40:08.892 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has Started in cucumber***
+11:40:12.144 [main] INFO  stepDefinitions.Hooks - searched for Book Shelves..
+11:40:15.191 [main] INFO  stepDefinitions.Hooks - Popup Closed..
+11:40:16.102 [main] INFO  stepDefinitions.Hooks - Selected Category as Kids Book Shelves..
+11:40:19.877 [main] INFO  stepDefinitions.Hooks - Selected Price Range..
+11:40:19.935 [main] INFO  stepDefinitions.Hooks - selected Exclude Out of Stock..
+11:40:23.697 [main] INFO  stepDefinitions.Hooks - Selected Sort By..
+11:40:35.232 [main] INFO  stepDefinitions.Hooks - Adding products to Excel Sheet..
+11:40:35.459 [main] INFO  stepDefinitions.Hooks - Adding products to Excel Sheet..
+11:40:35.671 [main] INFO  stepDefinitions.Hooks - Adding products to Excel Sheet..
+11:40:35.671 [main] INFO  stepDefinitions.Hooks - Adding products to Excel Sheet completed..
+11:40:37.482 [main] INFO  stepDefinitions.Hooks - navigated to home page..
+11:40:37.482 [main] INFO  stepDefinitions.Hooks - ***TC_001_productsSearch has completed***
+11:40:37.526 [main] INFO  stepDefinitions.Hooks - ***TC_002_Collections has Started***
+11:40:37.710 [main] INFO  stepDefinitions.Hooks - Navivating to living Collections..
+11:40:39.270 [main] INFO  stepDefinitions.Hooks - Adding SubMenu List to Excel Started..
+11:40:40.981 [main] INFO  stepDefinitions.Hooks - Adding SubMenu to Excel Completed..
+11:40:40.982 [main] INFO  stepDefinitions.Hooks - ***TC_002_Collections has completed***
+11:40:41.113 [main] INFO  stepDefinitions.TC_003_giftCardCreation - ***TC_003_giftCardTest has Started***
+11:41:36.343 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Gift Card page opened..
+11:41:36.788 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Clicked On birthday..
+11:41:37.757 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Amount selected..
+11:41:37.927 [main] INFO  stepDefinitions.TC_003_giftCardCreation - customising gift card completed..
+11:41:39.136 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Invalid email entered..
+11:41:40.356 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Writing into excel started..
+11:41:40.680 [main] INFO  stepDefinitions.TC_003_giftCardCreation - writing into excel completed..
+11:41:41.133 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Invalid email cleared and  valid email id is entered...
+11:41:41.375 [main] INFO  stepDefinitions.TC_003_giftCardCreation - validate all the given details in the Confirm Details section Started........
+11:41:43.149 [main] INFO  stepDefinitions.TC_003_giftCardCreation - validate all the given details in the Confirm Details section completed........
+11:41:43.150 [main] INFO  stepDefinitions.TC_003_giftCardCreation - ***TC_003_giftCardTest has completed***
+14:21:36.877 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started in cucumber***
+14:21:39.301 [main] INFO  testBase.BaseClass - searched for Book Shelves..
+14:21:43.031 [main] INFO  testBase.BaseClass - Popup Closed..
+14:21:43.848 [main] INFO  testBase.BaseClass - Selected Category as Kids Book Shelves..
+14:21:47.592 [main] INFO  testBase.BaseClass - Selected Price Range..
+14:21:47.651 [main] INFO  testBase.BaseClass - selected Exclude Out of Stock..
+14:21:51.501 [main] INFO  testBase.BaseClass - Selected Sort By..
+14:22:03.336 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+14:22:03.521 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+14:22:03.658 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+14:22:03.659 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet completed..
+14:22:04.869 [main] INFO  testBase.BaseClass - navigated to home page..
+14:22:04.869 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has completed***
+14:22:21.281 [main] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+14:22:21.644 [main] INFO  testBase.BaseClass - Navivating to living Collections..
