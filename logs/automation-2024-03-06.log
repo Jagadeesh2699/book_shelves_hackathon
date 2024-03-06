@@ -1,0 +1,57 @@
+10:56:01.835 [main] INFO  testBase.BaseClass - Adding SubMenu to Excel Completed..
+10:56:01.954 [main] INFO  testBase.BaseClass - ***TC_002_Collections has completed***
+10:56:23.695 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has Started***
+10:56:39.878 [main] INFO  testBase.BaseClass - Gift Card page opened..
+10:56:40.730 [main] INFO  testBase.BaseClass - Clicked On birthday..
+10:56:46.147 [main] INFO  testBase.BaseClass - Amount selected..
+10:56:46.661 [main] INFO  testBase.BaseClass - customising gift card completed..
+10:56:49.908 [main] INFO  testBase.BaseClass - Invalid email entered..
+10:56:51.194 [main] INFO  testBase.BaseClass - Writing into excel started..
+10:56:51.467 [main] INFO  testBase.BaseClass - writing into excel completed..
+10:56:52.604 [main] INFO  testBase.BaseClass - Invalid email cleared and  valid email id is entered...
+10:56:53.706 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section Started........
+10:56:54.118 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section completed........
+10:56:54.119 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has completed***
+16:25:26.531 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started in cucumber***
+16:25:28.542 [main] INFO  testBase.BaseClass - searched for Book Shelves..
+16:25:31.819 [main] INFO  testBase.BaseClass - Popup Closed..
+16:25:32.762 [main] INFO  testBase.BaseClass - Selected Category as Kids Book Shelves..
+16:25:36.564 [main] INFO  testBase.BaseClass - Selected Price Range..
+16:25:36.641 [main] INFO  testBase.BaseClass - selected Exclude Out of Stock..
+16:25:40.492 [main] INFO  testBase.BaseClass - Selected Sort By..
+16:25:51.990 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+16:25:52.178 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+16:25:52.336 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+16:25:52.336 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet completed..
+16:25:53.439 [main] INFO  testBase.BaseClass - navigated to home page..
+16:25:53.439 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has completed***
+16:26:07.696 [main] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+16:26:07.990 [main] INFO  testBase.BaseClass - Navivating to living Collections..
+16:26:09.758 [main] INFO  testBase.BaseClass - Adding SubMenu List to Excel Started..
+16:26:11.409 [main] INFO  testBase.BaseClass - Adding SubMenu to Excel Completed..
+16:26:11.409 [main] INFO  testBase.BaseClass - ***TC_002_Collections has completed***
+16:26:32.865 [main] INFO  stepDefinitions.TC_003_giftCardCreation - ***TC_003_giftCardTest has Started***
+16:27:17.068 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Gift Card page opened..
+16:27:18.000 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Clicked On birthday..
+16:27:20.311 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Amount selected..
+16:27:20.638 [main] INFO  stepDefinitions.TC_003_giftCardCreation - customising gift card completed..
+16:27:23.387 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Invalid email entered..
+16:27:27.179 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Writing into excel started..
+16:27:27.673 [main] INFO  stepDefinitions.TC_003_giftCardCreation - writing into excel completed..
+16:27:28.333 [main] INFO  stepDefinitions.TC_003_giftCardCreation - Invalid email cleared and  valid email id is entered...
+16:27:28.643 [main] INFO  stepDefinitions.TC_003_giftCardCreation - validate all the given details in the Confirm Details section Started........
+16:27:30.025 [main] INFO  stepDefinitions.TC_003_giftCardCreation - validate all the given details in the Confirm Details section completed........
+16:27:30.025 [main] INFO  stepDefinitions.TC_003_giftCardCreation - ***TC_003_giftCardTest has completed***
+16:29:36.725 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started***
+16:29:39.003 [main] INFO  testBase.BaseClass - searched for Book Shelves..
+16:29:42.192 [main] INFO  testBase.BaseClass - Popup Closed..
+16:29:43.052 [main] INFO  testBase.BaseClass - Selected Category as Kids Book Shelves..
+16:29:46.909 [main] INFO  testBase.BaseClass - Selected Price Range..
+16:29:50.791 [main] INFO  testBase.BaseClass - Selected Sort By..
+16:29:50.854 [main] INFO  testBase.BaseClass - selected Exclude Out of Stock..
+16:30:02.526 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+16:30:02.793 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+16:30:03.112 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+16:30:03.112 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet completed..
+16:30:04.368 [main] INFO  testBase.BaseClass - navigated to home page..
+16:30:04.369 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has completed***

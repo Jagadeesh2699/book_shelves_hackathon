@@ -1,0 +1,58 @@
+11:41:13.581 [main] INFO  testBase.BaseClass - Invalid email cleared and  valid email id is entered...
+11:41:15.646 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section Started........
+11:41:16.329 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section completed........
+11:41:16.329 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has completed***
+11:42:56.740 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started***
+11:43:01.831 [main] INFO  testBase.BaseClass - searched for Book Shelves..
+11:43:05.690 [main] INFO  testBase.BaseClass - Popup Closed..
+11:43:12.684 [main] INFO  testBase.BaseClass - Selected Category as Kids Book Shelves..
+11:43:32.567 [main] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+11:44:00.929 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has Started***
+11:44:44.997 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started***
+11:44:49.077 [main] INFO  testBase.BaseClass - searched for Book Shelves..
+11:44:52.427 [main] INFO  testBase.BaseClass - Popup Closed..
+11:44:54.203 [main] INFO  testBase.BaseClass - Selected Category as Kids Book Shelves..
+11:44:58.260 [main] INFO  testBase.BaseClass - Selected Price Range..
+11:45:02.476 [main] INFO  testBase.BaseClass - Selected Sort By..
+11:45:02.637 [main] INFO  testBase.BaseClass - selected Exclude Out of Stock..
+11:45:15.212 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+11:45:15.471 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+11:45:15.804 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet..
+11:45:15.805 [main] INFO  testBase.BaseClass - Adding products to Excel Sheet completed..
+11:45:18.598 [main] INFO  testBase.BaseClass - navigated to home page..
+11:45:18.599 [main] INFO  testBase.BaseClass - ***TC_001_productsSearch has completed***
+11:45:33.298 [main] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+11:45:35.215 [main] INFO  testBase.BaseClass - Navivating to living Collections..
+11:45:38.205 [main] INFO  testBase.BaseClass - Adding SubMenu List to Excel Started..
+11:45:41.048 [main] INFO  testBase.BaseClass - Adding SubMenu to Excel Completed..
+11:45:41.049 [main] INFO  testBase.BaseClass - ***TC_002_Collections has completed***
+11:45:54.805 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has Started***
+11:46:04.065 [main] INFO  testBase.BaseClass - Gift Card page opened..
+11:46:04.799 [main] INFO  testBase.BaseClass - Clicked On birthday..
+11:46:08.496 [main] INFO  testBase.BaseClass - Amount selected..
+11:46:08.892 [main] INFO  testBase.BaseClass - customising gift card completed..
+11:46:11.974 [main] INFO  testBase.BaseClass - Invalid email entered..
+11:46:14.219 [main] INFO  testBase.BaseClass - Writing into excel started..
+11:46:16.407 [main] INFO  testBase.BaseClass - writing into excel completed..
+11:46:19.758 [main] INFO  testBase.BaseClass - Invalid email cleared and  valid email id is entered...
+11:46:21.350 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section Started........
+11:46:22.148 [main] INFO  testBase.BaseClass - validate all the given details in the Confirm Details section completed........
+11:46:22.149 [main] INFO  testBase.BaseClass - ***TC_003_giftCardTest has completed***
+11:47:43.938 [TestNG-tests-1] INFO  testBase.BaseClass - ***TC_003_giftCardTest has Started***
+11:47:44.867 [TestNG-tests-2] INFO  testBase.BaseClass - ***TC_003_giftCardTest has Started***
+11:47:56.999 [TestNG-tests-1] INFO  testBase.BaseClass - Gift Card page opened..
+11:47:58.096 [TestNG-tests-1] INFO  testBase.BaseClass - Clicked On birthday..
+11:48:15.353 [TestNG-tests-2] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+11:48:20.275 [TestNG-tests-2] INFO  testBase.BaseClass - Navivating to living Collections..
+11:48:22.032 [TestNG-tests-1] INFO  testBase.BaseClass - ***TC_002_Collections has Started***
+11:48:25.217 [TestNG-tests-1] INFO  testBase.BaseClass - Navivating to living Collections..
+11:48:51.007 [TestNG-tests-1] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started***
+11:48:56.515 [TestNG-tests-2] INFO  testBase.BaseClass - ***TC_001_productsSearch has Started***
+11:49:02.480 [TestNG-tests-2] INFO  testBase.BaseClass - searched for Book Shelves..
+11:49:03.377 [TestNG-tests-1] INFO  testBase.BaseClass - searched for Book Shelves..
+11:49:05.713 [TestNG-tests-1] INFO  testBase.BaseClass - Popup Closed..
+11:49:12.777 [TestNG-tests-1] INFO  testBase.BaseClass - Amount selected..
+11:49:13.265 [TestNG-tests-1] INFO  testBase.BaseClass - customising gift card completed..
+11:49:42.876 [TestNG-tests-1] INFO  testBase.BaseClass - Invalid email entered..
+11:49:46.088 [TestNG-tests-1] INFO  testBase.BaseClass - Writing into excel started..
+11:49:50.468 [TestNG-tests-1] INFO  testBase.BaseClass - writing into excel completed..

@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <listeners>
-    <listener class-name="utilities.ExtentReportManager"/>
-  </listeners>
-  <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="windows"/>
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="edgeTest(failed)">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="testCases.TC_002_Collections">
+        <methods>
+          <include name="get_all_sub_menus"/>
+          <include name="tearDown"/>
+          <include name="go_to_Living_collections"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_002_Collections -->
+      <class name="testCases.TC_001_productsSearch">
+        <methods>
+          <include name="search_for_bookshelves"/>
+          <include name="tearDown"/>
+          <include name="apply_filters"/>
+          <include name="close_popup"/>
+          <include name="setup"/>
+          <include name="get_top_3_products"/>
+        </methods>
+      </class> <!-- testCases.TC_001_productsSearch -->
+      <class name="testCases.TC_003_giftCardTest">
+        <methods>
+          <include name="checking_with_validEmail"/>
+          <include name="tearDown"/>
+          <include name="customise_your_gift_card"/>
+          <include name="setup"/>
+          <include name="validDetails"/>
+          <include name="click_on_gift_cards"/>
+          <include name="checking_with_invalidEmail"/>
+        </methods>
+      </class> <!-- testCases.TC_003_giftCardTest -->
+    </classes>
+  </test> <!-- edgeTest(failed) -->
+  <test thread-count="5" parallel="tests" name="chromeTest(failed)">
+    <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="master"/>
-      </run>
-    </groups>
     <classes>
       <class name="testCases.TC_001_productsSearch">
         <methods>
@@ -24,5 +51,5 @@
         </methods>
       </class> <!-- testCases.TC_001_productsSearch -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- chromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

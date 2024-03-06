@@ -20,7 +20,7 @@
 					<version>3.2.2</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>mastersuite.xml</suiteXmlFile>
+							<suiteXmlFile>Master.xml</suiteXmlFile>
 							<!-- <suiteXmlFile>xyz.xml</suiteXmlFile>-->
 						</suiteXmlFiles>
 					</configuration>
@@ -136,6 +136,14 @@
     <version>7.15.0</version>
     <scope>test</scope>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-testng</artifactId>
+    <version>7.15.0</version>
+</dependency>
+
 <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports-cucumber4-adapter -->
 	<dependency>
 	    <groupId>tech.grasshopper</groupId>

@@ -1,11 +1,14 @@
 package testRunner;
 
-import org.junit.runner.RunWith;
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+import io.cucumber.testng.CucumberOptions;
 
-import io.cucumber.junit.Cucumber;
-import io.cucumber.junit.CucumberOptions;
+//import org.junit.runner.RunWith;
 
-@RunWith(Cucumber.class)
+//import io.cucumber.junit.Cucumber;
+//import io.cucumber.junit.CucumberOptions;
+
+//@RunWith(Cucumber.class)
 @CucumberOptions(
 		features= {".//Features"},
 		//features= {"@target/rerun.txt"},
@@ -21,6 +24,6 @@ import io.cucumber.junit.CucumberOptions;
 //		tags="@sanity"
 		
 		)
-public class TestRun {
+public class TestRun extends AbstractTestNGCucumberTests{
 
 }
